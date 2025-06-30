@@ -1,5 +1,5 @@
 
-<details><summary>📔 View notebook</summary>
+<!-- <details><summary>📔 View notebook</summary> -->
 
 # ⚫ ECCV 2025 Tutorial – Feature Representations, Then and Now
 <!-- Student numbers: <span style="color:red">r1024617, r1028141, r1017287, r0928156, r1016565</span>. -->
